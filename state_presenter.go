@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package main
 
 import (
@@ -5,7 +10,8 @@ import (
 
 	"github.com/gdamore/tcell"
 	"github.com/gdamore/tcell/views"
-	"github.com/viktomas/godu/core"
+
+	"github.com/sniperkit/snk.fork.viktomas-godu/core"
 )
 
 func InteractiveTree(s tcell.Screen, states chan core.State, wg *sync.WaitGroup) {

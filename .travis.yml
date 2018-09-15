@@ -1,3 +1,6 @@
+# Sniperkit-Bot
+# - Status: analyzed
+
 language: go
 
 go:

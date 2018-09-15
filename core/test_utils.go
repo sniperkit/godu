@@ -1,3 +1,8 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package core
 
 // NewTestFolder is providing easy interface to create foders for automated tests

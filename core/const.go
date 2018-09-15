@@ -1,7 +1,12 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package core
 
 const (
-	_ = iota
+	_        = iota
 	KILOBYTE = 1 << (10 * iota)
 	MEGABYTE
 	GIGABYTE

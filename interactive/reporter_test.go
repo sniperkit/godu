@@ -1,10 +1,15 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package interactive
 
 import (
 	"reflect"
 	"testing"
 
-	"github.com/viktomas/godu/core"
+	"github.com/sniperkit/snk.fork.viktomas-godu/core"
 )
 
 func TestReportTree(t *testing.T) {

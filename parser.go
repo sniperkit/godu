@@ -1,10 +1,16 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package main
 
 import (
 	"sync"
 
 	"github.com/gdamore/tcell"
-	"github.com/viktomas/godu/core"
+
+	"github.com/sniperkit/snk.fork.viktomas-godu/core"
 )
 
 func ParseCommand(s tcell.Screen, commands chan core.Executer, wg *sync.WaitGroup) {

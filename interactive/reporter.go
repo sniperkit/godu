@@ -1,9 +1,14 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package interactive
 
 import (
 	"fmt"
 
-	"github.com/viktomas/godu/core"
+	"github.com/sniperkit/snk.fork.viktomas-godu/core"
 )
 
 type Line struct {

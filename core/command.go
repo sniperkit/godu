@@ -1,6 +1,13 @@
+/*
+Sniperkit-Bot
+- Status: analyzed
+*/
+
 package core
 
-import "errors"
+import (
+	"errors"
+)
 
 // State represents system configuration after processing user input
 type State struct {
